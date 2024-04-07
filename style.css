@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    background-color:rgb(24, 20, 20)
+    
+}
+
+.home{
+    margin-top: 20px;
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+
+.homepage{
+color: white;
+}
+
+.table{
+    color: white;
+}
+
+
+}
+.name{
+    color: green;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.about{
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    margin: 50px;
+}
+
+
+.summary{
+    color:green;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+
+.goal{
+    color:green;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;  
+}
+
+.goal2{
+    color:white;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+.achieve{
+    text-align: center;
+    
+}
+.intro{
+    text-align: center;
+}
+.student{
+    color: white;
+    font-size: 18px;
+
+}
+.career{
+    color:white;
+    font-size: 18px;
+}
+
+.edu{
+    margin-top: 40px;
+    margin-left: 50px;
+     color:green;
+     font-size: 20px;
+    margin-bottom: 15px; 
+}
+
+.school{
+    color: white;
+    font-size: 17px;
+    margin-left: 50px;
+}
+
+.exp{
+    margin-top: 40px;
+    margin-left: 50px;
+     color:green;
+     font-size: 20px;
+    margin-bottom: 15px;
+}
+.exp2{
+    color: white;
+    font-size: 17px;
+}
+.exp1{
+    color:green;
+    font-size: 20px; 
+}
+
+.company{
+    color:white;
+    font-size: 19px; 
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: 200
+}
+
+.skills {
+    margin-top: 40px;
+    margin-left: 50px;
+     color:green;
+     font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.skills1{
+    color:green;
+    font-size: 20px; 
+    margin-bottom: 15px;
+}
+
+.skills2{
+    color: white;
+    font-size: 17px;
+}
+
+.hobbies {
+    margin-top: 40px;
+    margin-left: 50px;
+     color:green;
+     font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.interest{
+    color:green;
+    font-size: 20px; 
+    margin-bottom: 15px;
+}
+
+.like{
+    color: white;
+    font-size: 17px;
+}
+
+.contact {
+    margin-top: 40px;
+    margin-left: 50px;
+     color:green;
+     font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.me{
+    color:green;
+    font-size: 20px; 
+    margin-bottom: 15px;
+}
+
+.meet{
+    color: white;
+    font-size: 17px;
+}
+
+.form{
+    align-items:end;
+    color: white;
+    margin-left: 800px;
+
+}
+
+.input-name{
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 150px;
+    background-color: white; 
+}
+
+.email-list{
+    margin-top: 15px;
+}
+.input-email{
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 150px;
+    background-color: white; 
+}
+.message-area{
+    margin-top: 15px;
+    
+}
+.message{
+    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-right: 165px;
+    background-color: white; 
+}
+
+.priority{
+    margin-top: 15px;
+    
+}
+.priority-value{
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 215px;
+    background-color: white; 
+    color: black;
+}
+
+.submit-form{
+    margin-top: 10px;
+    margin-bottom: 200px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 2.5px;
+    padding-right: 20px;
+    background-color: green ;
+    font-size: 13px;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.contact-me{
+    margin-left: 750px;
+    font-size: 20px;
+}
+
+.footer{
+    background-color:rgb(82, 70, 70);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+
+
